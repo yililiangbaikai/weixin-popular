@@ -48,7 +48,7 @@ public class MaterialBatchgetResultItem {
 		this.url = url;
 	}
 	
-	public String getUrl(String url) {
+	public String getUrl() {
 		return url;
 	}
 
